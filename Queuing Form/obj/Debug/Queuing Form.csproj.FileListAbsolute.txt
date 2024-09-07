@@ -1,0 +1,11 @@
+C:\Users\Comlab1\source\repos\Queuing Form\Queuing Form\bin\Debug\Queuing Form.exe.config
+C:\Users\Comlab1\source\repos\Queuing Form\Queuing Form\bin\Debug\Queuing Form.exe
+C:\Users\Comlab1\source\repos\Queuing Form\Queuing Form\bin\Debug\Queuing Form.pdb
+C:\Users\Comlab1\source\repos\Queuing Form\Queuing Form\obj\Debug\Queuing Form.csproj.AssemblyReference.cache
+C:\Users\Comlab1\source\repos\Queuing Form\Queuing Form\obj\Debug\Queuing_Form.CashierWindowQueueForm.resources
+C:\Users\Comlab1\source\repos\Queuing Form\Queuing Form\obj\Debug\Queuing_Form.Form1.resources
+C:\Users\Comlab1\source\repos\Queuing Form\Queuing Form\obj\Debug\Queuing_Form.Properties.Resources.resources
+C:\Users\Comlab1\source\repos\Queuing Form\Queuing Form\obj\Debug\Queuing Form.csproj.GenerateResource.cache
+C:\Users\Comlab1\source\repos\Queuing Form\Queuing Form\obj\Debug\Queuing Form.csproj.CoreCompileInputs.cache
+C:\Users\Comlab1\source\repos\Queuing Form\Queuing Form\obj\Debug\Queuing Form.exe
+C:\Users\Comlab1\source\repos\Queuing Form\Queuing Form\obj\Debug\Queuing Form.pdb
